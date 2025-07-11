@@ -1,3 +1,4 @@
+# A palindrome is a word that is spelt the same backwards
 def isPalindrome(word):
     word=word.lower()
 
