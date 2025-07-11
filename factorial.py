@@ -7,3 +7,12 @@ def factorial(n):
     return num
 
 print(factorial(5))
+
+# factorial using function
+
+def factorial_(n):
+    if n==0:
+        return 1
+    
+    return n* factorial(n-1)
+print(factorial_(5))
