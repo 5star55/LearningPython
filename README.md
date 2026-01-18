@@ -1,2 +1,2 @@
 # LearningPython
-some source coe=de while learning python
+some source code while learning python
